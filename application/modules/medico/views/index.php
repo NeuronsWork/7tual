@@ -76,8 +76,8 @@
                                     <td><?=$item->telefono;?></td>
                                     <td>
                                         <div class="btn-group">
-                                            <a class="btn btn-primary editMedic" id="<?=$item->cod_cmp;?>"><i class="icon_pencil-edit"></i></a>
-                                            <a class="btn btn-danger deleteMedic" id="<?=$item->cod_cmp;?>" ><i class="icon_close_alt2"></i></a>
+                                            <a class="btn btn-primary tooltips editMedic" id="<?=$item->cod_cmp;?>" data-placement="right" data-original-title="Editar <?=$item->cod_cmp;?>"><i class="icon_pencil-edit"></i></a>
+                                            <a class="btn btn-danger tooltips deleteMedic" id="<?=$item->cod_cmp;?>" data-placement="right" data-original-title="Eliminar <?=$item->cod_cmp;?>"><i class="icon_close_alt2"></i></a>
                                         </div>
                                     </td>
                                 </tr>

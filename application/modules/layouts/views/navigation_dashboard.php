@@ -38,6 +38,17 @@
                         </li>
                         <li class="sub-menu">
                             <a class="" href="javascript:;">
+                                <i class="icon_document_alt"></i>
+                                <span>Metodos y Relación</span>
+                                <span class="menu-arrow arrow_carrot-right"></span>
+                            </a>
+                            <ul class="sub">
+                                <li><a class="" href="<?=site_url();?>"><i class="icon_flowchart"></i>Relación de Codigos para un metodo</a></li>
+                                <li><a class="" href="<?=site_url();?>"><i class="icon_flowchart"></i>Relación de Codigos con Metodos</a></li>
+                            </ul>
+                        </li>
+                        <li class="sub-menu">
+                            <a class="" href="javascript:;">
                                 <i class="icon_genius"></i>
                                 <span>Analisis</span>
                                 <span class="menu-arrow arrow_carrot-right"></span>
@@ -93,8 +104,8 @@
                                         <span class="menu-arrow icon-level-down"></span>
                                     </a>
                                     <ul class="sub" style="display: none;">
-                                        <li><a class="" href="<?=site_url('perfil');?>"><i class="icon_menu"></i>Usuarios/Perfiles</a></li>
-                                        <li><a class="" href="<?=site_url('perfil');?>"><i class="icon_menu"></i>Menu/Modulos</a></li>
+                                        <li><a class="" href="<?=site_url('perfilusuario');?>"><i class="icon_menu"></i>Usuarios/Perfiles</a></li>
+                                        <li><a class="" href="<?=site_url('menumodelo');?>"><i class="icon_menu"></i>Menu/Modulos</a></li>
                                     </ul>
                                 </li>
                                 <li><a class="" href="<?=site_url();?>login/logout"><i class="icon-cloud"></i>Backup DB</a></li>

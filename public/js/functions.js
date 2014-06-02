@@ -1,19 +1,3 @@
-/**
- *
- *
-  __
- /\ \
- \ \ \____  _ __    __     __  __    ___     ____     _____      __
-  \ \ '__`\/\`'__\/'__`\  /\ \/\ \  / __`\  /',__\   /\ '__`\  /'__`\
-   \ \ \L\ \ \ \//\ \L\.\_\ \ \_/ |/\ \L\ \/\__, `\__\ \ \L\ \/\  __/
-    \ \_,__/\ \_\\ \__/.\_\\ \___/ \ \____/\/\____/\_\\ \ ,__/\ \____\
-     \/___/  \/_/ \/__/\/_/ \/__/   \/___/  \/___/\/_/ \ \ \/  \/____/
-                                                        \ \_\
-                                                         \/_/
- *
- *
- */
-
 jQuery(document).ready(function(){
 
     var base_url = "http://localhost/endolab/";
@@ -30,12 +14,10 @@ jQuery(document).ready(function(){
 
 /**
  *
- * ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
- * 
- * Functions jQuery Modules::Login
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+    Functions jQuery Modules::Login
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
  *
- * ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
- * 
  **/
 
     jQuery("#login-form").submit(function(event)
@@ -83,11 +65,9 @@ jQuery(document).ready(function(){
 
 /**
  *
- * ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
- * 
- * Functions jQuery Modules::Medic
- *
- * ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+    Functions jQuery Modules::Medic
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
  *
  **/
 
@@ -180,8 +160,8 @@ jQuery(document).ready(function(){
     /**
      * @function ::: Editar medicos
      */
-    
-     jQuery('.editMedic').on("click",function(){
+
+    jQuery('.editMedic').on("click",function(){
         var id_medic = $(this).attr('id');
         var url_edit = $('#edit_medic').val();
         $.ajax({
@@ -207,6 +187,66 @@ jQuery(document).ready(function(){
                 });
             }
         });
-     });
+    });
+
+/**
+ *
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+    Functions jQuery Modules::perfilusuario
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+ *
+ **/
+
+    /**
+     * @function ::: Guardar nuevo usuarios
+     */
+
+    jQuery('.modal').on('submit','form#form_create_user[data-async]', function(event) {
+        var $form = $(this);
+        var url_create = $("#create_user").val();
+        var url = $("#url").val();
+
+        $.ajax({
+            type: $form.attr('method'),
+            url: url_create,
+            data: $form.serialize(),
+            beforeSend:function(){
+                $($form).find('.btn-send').text('Enviando datos...');
+            },
+            success: function(data){
+                if(data==1){
+                    $($form).find('.btn-send').text('Datos Guardados...');
+                    $('#form_create_user').reset();
+                    $('.modal').delay(1500).modal('hide');
+                    $(location).attr('href',url);
+                }
+            }
+        });
+
+        event.preventDefault();
+    });
+
+    /**
+     * @function ::: Eliminar usuarios
+     */
+
+    jQuery('.deleteUser').on("click",function(){
+        var id_user   = $(this).attr('id');
+        var url_delete   = $("#delete_user").val();
+
+        $.ajax({
+            type: "POST",
+            url: url_delete,
+            data: "inputId="+id_user,
+            beforeSend:function(){
+                $('#user_'+id_user).find('td').css({backgroundColor: 'rgb(252, 170, 170)'});
+            },
+            success:function(){
+                $('#user_'+id_user).fadeIn(500).delay(250).fadeOut(500);
+            }
+        });
+
+    });
+
 
 });

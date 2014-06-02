@@ -17,7 +17,7 @@
  * Class Perfil_model
  *
  */
-class Perfil_model extends CI_Model
+class MenuModelo_model extends CI_Model
 {
 
     public function __construct()

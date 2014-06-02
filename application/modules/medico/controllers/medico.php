@@ -1,26 +1,9 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
- *
- *
- * 
- *
- __
-/\ \
-\ \ \____  _ __    __     __  __    ___     ____     _____      __
- \ \ '__`\/\`'__\/'__`\  /\ \/\ \  / __`\  /',__\   /\ '__`\  /'__`\
-  \ \ \L\ \ \ \//\ \L\.\_\ \ \_/ |/\ \L\ \/\__, `\__\ \ \L\ \/\  __/
-   \ \_,__/\ \_\\ \__/.\_\\ \___/ \ \____/\/\____/\_\\ \ ,__/\ \____\
-    \/___/  \/_/ \/__/\/_/ \/__/   \/___/  \/___/\/_/ \ \ \/  \/____/
-                                                       \ \_\
-                                                        \/_/
- *
- * ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
- *
- * Class DashbMedico
- *
- * ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
- *
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+    Class Medico
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
  */
 
 class Medico extends MX_Controller
@@ -32,7 +15,7 @@ class Medico extends MX_Controller
         $this->load->model('medico_model');         // cargando models medico
         if($this->auth->is_logged() == FALSE):      // verificando login
             redirect(base_url('login'));
-        endif;   
+        endif;
     }
 
     public function index()

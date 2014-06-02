@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"empr",
+				"EmpresaId"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"td-",
+				"td-sbig-title"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cod",
+				"cod_cmp"
+			],
+			[
+				"url",
+				"url_edit"
+			],
+			[
+				"a",
+				"ajax  (function)"
+			],
+			[
+				"input",
+				"inputCMP"
+			],
+			[
+				"id",
+				"id_medic"
+			],
+			[
+				"brasil",
+				"brasil-2014"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"delete",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 720.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/dipoo/cms/application/views/lost/script_lost.php",
+		"/C/wamp/www/dipoo/cms/application/models/lost_model.php",
+		"/C/wamp/www/dipoo/cms/application/controllers/lost.php",
+		"/C/wamp/www/dipoo/cms/application/views/lost/pagination_abc.php",
+		"/C/wamp/www/dipoo/cms/application/views/lost_view.php",
+		"/C/wamp/www/dipoo/cms/application/views/lost/lost_view_locales.php",
+		"/C/wamp/www/dipoo/cms/javascript/jquery/script.js",
+		"/C/wamp/www/dipoo/cms/javascript/jquery/jqueryTab.js",
+		"/C/wamp/www/dipoo/cms/javascript/jquery/jquery.js",
+		"/C/wamp/www/dipoo/cms/javascript/prism.js",
+		"/C/wamp/www/dipoo/cms/javascript/system/script.js",
+		"/C/wamp/www/dipoo/cms/javascript/scriptSystem/notificacion.js",
+		"/C/wamp/www/dipoo/cms/javascript/scriptSystem/empresa.js",
+		"/C/wamp/www/dipoo/cms/javascript/scriptSystem/cupones.js",
+		"/C/wamp/www/dipoo/cms/application/config/config.php",
+		"/C/wamp/www/dipoo/cms/application/config/database.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-3/functions.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-3/style.css",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Minifier/Minifier.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Minifier.sublime-settings",
+		"/H/tawi/limitar-tamaño-imegen.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/style.css",
+		"/H/tawi/themes-wordpress/Newspaper/style.min.css",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/branded-login-screen.js",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/branded-login-screen.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/H/tawi/twitter-update-widget.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/loop-single.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/ticker.css",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_module_1.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_global.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/page-homepage-blank.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_module_slide.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/page-homepage-loop.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_block_layout.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_template_layout.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/archive.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_page_views.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/ticker-color.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_module_slide_big.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_module_mega_menu.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_widget_builder.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_wordpres_booster.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_config.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/header-style-2.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/header-style-1.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/menu-header.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/menu-top.less",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/main.less",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_less_compiler.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/theme-style.php",
+		"/C/wamp/www/endolab/application/modules/medico/models/medico_model.php",
+		"/C/wamp/www/endolab/application/modules/medico/controllers/medico.php",
+		"/C/wamp/www/endolab/public/js/functions.js",
+		"/C/wamp/www/endolab/application/modules/medico/views/form_medic_edit.php",
+		"/C/wamp/www/endolab/application/modules/medico/views/form_medic.php",
+		"/C/wamp/www/endolab/application/modules/medico/views/index.php",
+		"/H/tawi/styles/style.css",
+		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/home_layout/home-page-brasil2014.php",
+		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/header-master.php",
+		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/header-brasil2014.php",
+		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/header.php",
+		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/home-page-brasil2014.php",
+		"/C/wamp/www/endolab/application/modules/layouts/views/navigation_dashboard.php",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/wamp/www/endolab/application/modules/layouts/controllers/layouts.php",
+		"/C/wamp/www/endolab/application/modules/login/controllers/login.php",
+		"/C/wamp/www/endolab/application/modules/login/views/index.php",
+		"/C/wamp/www/endolab/application/modules/medico/views/form_new_medic.php",
+		"/C/wamp/www/endolab/application/config/database.php",
+		"/C/wamp/www/endolab/application/config/config.php",
+		"/C/wamp/www/dipoo/Bitbucket/cms/application/config/config.php",
+		"/C/wamp/www/dipoo/Bitbucket/cms/application/config/database.php",
+		"/I/tawi/styles/nivo-slider.css",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DRa0.184/tawi-pe-default-1-database-2014-05-22-23-42-04.sql",
+		"/C/Users/Usuario/Desktop/client_secrets.json",
+		"/C/wamp/www/tawi/wp-config.php",
+		"/C/wamp/www/tawi/wp-settings.php",
+		"/C/wamp/www/tawi/wp-load.php",
+		"/C/wamp/www/tawi/wp-login.php",
+		"/I/tawi/bd_bk/localhost.sql",
+		"/C/wamp/www/tawi/wp-config-sample.php",
+		"/C/wamp/www/tawi.pe/wp-config-sample.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/wp-settings.php",
+		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/I/tawi/bk_pagina/.htaccess",
+		"/I/tawi/styles/style.css",
+		"/I/tawi/php/custom.php",
+		"/C/wamp/www/observatorio/index.html",
+		"/C/wamp/www/observatorio/css/css.less",
+		"/I/tawi/styles/public.css",
+		"/I/tawi/php/header.php",
+		"/I/tawi/php/default-widgets.php",
+		"/I/tawi/php/custom-bk.php",
+		"/I/tawi/styles/flexslider.css",
+		"/C/wamp/www/karmanta/general.html",
+		"/C/wamp/www/karmanta/js/gritter.js",
+		"/C/wamp/www/karmanta/inbox.html",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DRa0.412/1314/index.html",
+		"/C/Users/Usuario/AppData/Local/Temp/Rar$DRa0.318/1314/bootstrap.min.js",
+		"/C/wamp/www/dipoo/_ss/application/controllers/local_life.php",
+		"/C/wamp/www/dipoo/_ss/application/controllers/cupon.php",
+		"/C/wamp/www/dipoo/_ss/application/controllers/cupon_life.php",
+		"/C/wamp/www/dipoo/_ss/application/models/local_life_model.php",
+		"/C/wamp/www/dipoo/_ss/application/models/cupon_model.php",
+		"/C/wamp/www/dipoo/_ss/application/controllers/local.php",
+		"/C/wamp/www/dipoo/_ss/application/config/database.php",
+		"/C/wamp/www/dipoo/_ss/application/config/config.php",
+		"/C/wamp/www/dipoo/cms/application/models/logeo_model.php",
+		"/C/wamp/www/dipoo/_ss/application/controllers/dashboard.php",
+		"/C/wamp/www/dipoo/_ss/application/models/usuario_model.php",
+		"/C/wamp/www/dipoo/_ss/application/views/dashboard_view.php",
+		"/C/wamp/www/dipoo/_ss/application/controllers/login.php",
+		"/C/wamp/www/dipoo/_ss/application/models/cupon_life_model.php",
+		"/C/wamp/www/dipoo/_ss/application/models/dashboard_model.php",
+		"/C/wamp/www/dipoo/_ss/application/config/autoload.php",
+		"/C/wamp/www/dipoo/_ss/application/config/hooks.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"load_featured_img_from_template",
+			"get_image",
+			"get_-image",
+			"get-image",
+			"td-mega-menu",
+			"<?",
+			"td-top-menu",
+			"td-header-menu-wrap",
+			"body",
+			"home3/tawi/public_html/",
+			"home3",
+			"home3/tawi/public_html",
+			"b1.png",
+			"jpg",
+			"img-publicaciones",
+			"jpg",
+			"img-publicaciones",
+			"menu",
+			"add-without-image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "project.endolab.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cupon",
+				"application\\controllers\\cupon_life.php"
+			],
+			[
+				"func",
+				"assets\\js\\functions.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"19":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"24":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"28":
+				{
+					"group": 0,
+					"index": 3
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
