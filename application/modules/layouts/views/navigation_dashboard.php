@@ -43,7 +43,7 @@
                                 <span class="menu-arrow arrow_carrot-right"></span>
                             </a>
                             <ul class="sub">
-                                <li><a class="" href="<?=site_url();?>"><i class="icon_flowchart"></i>Relación de Codigos para un metodo</a></li>
+                                <li><a class="" href="<?=site_url('metodos');?>"><i class="icon_flowchart"></i>Relación de Codigos para un metodo</a></li>
                                 <li><a class="" href="<?=site_url();?>"><i class="icon_flowchart"></i>Relación de Codigos con Metodos</a></li>
                             </ul>
                         </li>
