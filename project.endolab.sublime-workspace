@@ -4,6 +4,258 @@
 		"selected_items":
 		[
 			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"m",
+				"metodo_pago.svg"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"pr",
+				"prod-id-03.jpg	w:571 h:309"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"w",
+				"w3_megamenu.less"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"go",
+				"gorrila-1.png	w:495 h:531"
+			],
+			[
+				"gal",
+				"galleryImage"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"bootstr",
+				"bootstrap-select.less"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"se",
+				"select	Tag"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"repeat",
+				"no-repeat"
+			],
+			[
+				"pro",
+				"prod-1-img-238.jpg	w:238 h:256"
+			],
+			[
+				"boot",
+				"bootstrap-slider.js"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"cha",
+				"changePoint"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"img",
+				"img-slider-thumbnail-1"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"ff",
+				"FFFFFF"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"prefil",
+				"perfilusuario_model"
+			],
+			[
 				"empr",
 				"EmpresaId"
 			],
@@ -12,52 +264,8 @@
 				"width"
 			],
 			[
-				"wi",
-				"width"
-			],
-			[
-				"back",
-				"background-color"
-			],
-			[
-				"border",
-				"border-left"
-			],
-			[
-				"let",
-				"left"
-			],
-			[
-				"bo",
-				"bottom"
-			],
-			[
-				"w",
-				"width"
-			],
-			[
 				"td-",
 				"td-sbig-title"
-			],
-			[
-				"rgb",
-				"rgba()"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"rep",
-				"repeat-x"
-			],
-			[
-				"text",
-				"text-transform"
-			],
-			[
-				"bac",
-				"background-color"
 			],
 			[
 				"cod",
@@ -91,15 +299,52 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "7tual/modules/noise/views/index.php",
+			"settings":
+			{
+				"buffer_size": 10677,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "7tual/libraries/Slug.php",
+			"settings":
+			{
+				"buffer_size": 5335,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 375.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
 				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
 				"Package Control: Install Package"
 			],
 			[
@@ -111,14 +356,6 @@
 				"Trailing Spaces: Delete Trailing Spaces"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
 				"Package Control: insta",
 				"Package Control: Install Package"
 			],
@@ -127,7 +364,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 536.0
+		"width": 570.0
 	},
 	"console":
 	{
@@ -146,140 +383,53 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Library/WebServer/Documents/7tualsys",
+		"/Library/WebServer/Documents/7tualsys/7tual",
+		"/Library/WebServer/Documents/7tualsys/7tual/libraries",
+		"/Library/WebServer/Documents/7tualsys/7tual/modules",
+		"/Library/WebServer/Documents/7tualsys/7tual/modules/noise",
+		"/Library/WebServer/Documents/7tualsys/7tual/modules/noise/views"
+	],
 	"file_history":
 	[
-		"/C/wamp/www/dipoo/cms/application/views/lost/script_lost.php",
-		"/C/wamp/www/dipoo/cms/application/models/lost_model.php",
-		"/C/wamp/www/dipoo/cms/application/controllers/lost.php",
-		"/C/wamp/www/dipoo/cms/application/views/lost/pagination_abc.php",
-		"/C/wamp/www/dipoo/cms/application/views/lost_view.php",
-		"/C/wamp/www/dipoo/cms/application/views/lost/lost_view_locales.php",
-		"/C/wamp/www/dipoo/cms/javascript/jquery/script.js",
-		"/C/wamp/www/dipoo/cms/javascript/jquery/jqueryTab.js",
-		"/C/wamp/www/dipoo/cms/javascript/jquery/jquery.js",
-		"/C/wamp/www/dipoo/cms/javascript/prism.js",
-		"/C/wamp/www/dipoo/cms/javascript/system/script.js",
-		"/C/wamp/www/dipoo/cms/javascript/scriptSystem/notificacion.js",
-		"/C/wamp/www/dipoo/cms/javascript/scriptSystem/empresa.js",
-		"/C/wamp/www/dipoo/cms/javascript/scriptSystem/cupones.js",
-		"/C/wamp/www/dipoo/cms/application/config/config.php",
-		"/C/wamp/www/dipoo/cms/application/config/database.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-3/functions.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-3/style.css",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Minifier/Minifier.sublime-settings",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Minifier.sublime-settings",
-		"/H/tawi/limitar-tamaño-imegen.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/style.css",
-		"/H/tawi/themes-wordpress/Newspaper/style.min.css",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/branded-login-screen.js",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/branded-login-screen.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/index.php",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/style 2.css",
-		"/H/tawi/twitter-update-widget.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/loop-single.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/ticker.css",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_module_1.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_global.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/page-homepage-blank.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_module_slide.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/page-homepage-loop.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_block_layout.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_template_layout.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/archive.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_page_views.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/ticker-color.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_module_slide_big.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_module_mega_menu.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_widget_builder.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_wordpres_booster.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_config.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/header-style-2.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/header-style-1.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/menu-header.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/menu-top.less",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/main.less",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/td_less_compiler.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/theme-style.php",
-		"/C/wamp/www/endolab/application/modules/medico/models/medico_model.php",
-		"/C/wamp/www/endolab/application/modules/medico/controllers/medico.php",
-		"/C/wamp/www/endolab/public/js/functions.js",
-		"/C/wamp/www/endolab/application/modules/medico/views/form_medic_edit.php",
-		"/C/wamp/www/endolab/application/modules/medico/views/form_medic.php",
-		"/C/wamp/www/endolab/application/modules/medico/views/index.php",
-		"/H/tawi/styles/style.css",
-		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/home_layout/home-page-brasil2014.php",
-		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/header-master.php",
-		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/header-brasil2014.php",
-		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/header.php",
-		"/H/tawi/tawi-bk-22-05-2014/wp-content/themes/megnet/home-page-brasil2014.php",
-		"/C/wamp/www/endolab/application/modules/layouts/views/navigation_dashboard.php",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/GitHub.sublime-settings",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
-		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-		"/C/wamp/www/endolab/application/modules/layouts/controllers/layouts.php",
-		"/C/wamp/www/endolab/application/modules/login/controllers/login.php",
-		"/C/wamp/www/endolab/application/modules/login/views/index.php",
-		"/C/wamp/www/endolab/application/modules/medico/views/form_new_medic.php",
-		"/C/wamp/www/endolab/application/config/database.php",
-		"/C/wamp/www/endolab/application/config/config.php",
-		"/C/wamp/www/dipoo/Bitbucket/cms/application/config/config.php",
-		"/C/wamp/www/dipoo/Bitbucket/cms/application/config/database.php",
-		"/I/tawi/styles/nivo-slider.css",
-		"/C/Users/Usuario/AppData/Local/Temp/Rar$DRa0.184/tawi-pe-default-1-database-2014-05-22-23-42-04.sql",
-		"/C/Users/Usuario/Desktop/client_secrets.json",
-		"/C/wamp/www/tawi/wp-config.php",
-		"/C/wamp/www/tawi/wp-settings.php",
-		"/C/wamp/www/tawi/wp-load.php",
-		"/C/wamp/www/tawi/wp-login.php",
-		"/I/tawi/bd_bk/localhost.sql",
-		"/C/wamp/www/tawi/wp-config-sample.php",
-		"/C/wamp/www/tawi.pe/wp-config-sample.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/wp-settings.php",
-		"/C/Users/Usuario/AppData/Local/Temp/fz3temp-1/wp-config.php",
-		"/I/tawi/bk_pagina/.htaccess",
-		"/I/tawi/styles/style.css",
-		"/I/tawi/php/custom.php",
-		"/C/wamp/www/observatorio/index.html",
-		"/C/wamp/www/observatorio/css/css.less",
-		"/I/tawi/styles/public.css",
-		"/I/tawi/php/header.php",
-		"/I/tawi/php/default-widgets.php",
-		"/I/tawi/php/custom-bk.php",
-		"/I/tawi/styles/flexslider.css",
-		"/C/wamp/www/karmanta/general.html",
-		"/C/wamp/www/karmanta/js/gritter.js",
-		"/C/wamp/www/karmanta/inbox.html",
-		"/C/Users/Usuario/AppData/Local/Temp/Rar$DRa0.412/1314/index.html",
-		"/C/Users/Usuario/AppData/Local/Temp/Rar$DRa0.318/1314/bootstrap.min.js",
-		"/C/wamp/www/dipoo/_ss/application/controllers/local_life.php",
-		"/C/wamp/www/dipoo/_ss/application/controllers/cupon.php",
-		"/C/wamp/www/dipoo/_ss/application/controllers/cupon_life.php",
-		"/C/wamp/www/dipoo/_ss/application/models/local_life_model.php",
-		"/C/wamp/www/dipoo/_ss/application/models/cupon_model.php",
-		"/C/wamp/www/dipoo/_ss/application/controllers/local.php",
-		"/C/wamp/www/dipoo/_ss/application/config/database.php",
-		"/C/wamp/www/dipoo/_ss/application/config/config.php",
-		"/C/wamp/www/dipoo/cms/application/models/logeo_model.php",
-		"/C/wamp/www/dipoo/_ss/application/controllers/dashboard.php",
-		"/C/wamp/www/dipoo/_ss/application/models/usuario_model.php",
-		"/C/wamp/www/dipoo/_ss/application/views/dashboard_view.php",
-		"/C/wamp/www/dipoo/_ss/application/controllers/login.php",
-		"/C/wamp/www/dipoo/_ss/application/models/cupon_life_model.php",
-		"/C/wamp/www/dipoo/_ss/application/models/dashboard_model.php",
-		"/C/wamp/www/dipoo/_ss/application/config/autoload.php",
-		"/C/wamp/www/dipoo/_ss/application/config/hooks.php"
+		"/Library/WebServer/Documents/7tualsys/index.php",
+		"/I/plusamazing.com/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/glyphicons.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/fontastic.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/variables.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/img/metodo_pago.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/component-animations.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/js/jquery.flexisel.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/w3_megamenu.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/index-2.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/qorilazo.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/grid.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/mixins/grid.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/mixins/grid-framework.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/normalize.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/pager.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/theme.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/utilities.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/bootstrap.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/mixins.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/js/qcompro.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/qoralizo/assets/js/qcompro.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/qoralizo/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/qoralizo/assets/less/bootstrap.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/css/layerslider.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/skins/defaultskin/skin.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/js/layerslider.transitions.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/js/layerslider.kreaturamedia.jquery.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/js/jquery.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/css/layerslider.less.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/css/layerslider.css"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -293,26 +443,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"\n",
-			"load_featured_img_from_template",
-			"get_image",
-			"get_-image",
-			"get-image",
-			"td-mega-menu",
-			"<?",
-			"td-top-menu",
-			"td-header-menu-wrap",
-			"body",
-			"home3/tawi/public_html/",
-			"home3",
-			"home3/tawi/public_html",
-			"b1.png",
-			"jpg",
-			"img-publicaciones",
-			"jpg",
-			"img-publicaciones",
+			"<span class=\"icon icon icon-elusive-icons-30\"></span>",
+			"></",
+			"<span class=\"icon icon-medal-rank-star\"></span>",
+			"arsort",
+			"gan",
+			"tipo_prod",
+			"6",
+			"4",
+			"3",
+			"4",
+			"8",
+			"icon",
+			"}\n",
+			"fonts",
+			"icomoon",
+			"4",
+			"8",
+			"Cómo",
+			"7",
+			"_p\"",
+			"_p",
+			"load",
+			"loading",
+			"button",
+			"7",
+			"5",
+			"span",
+			"<img",
+			"<li ",
+			"<li",
+			"src=\"\"",
+			"images",
+			"right",
+			"3",
+			"<div class=\"col-lg-13 col-md-13 col-sm-13 col-xs-13\">\n                                    <figure>\n                                        <img src=\"upload/img-5.jpg\" class=\"img-responsive\">\n                                    </figure>\n                                </div>",
+			"3",
+			"13",
+			"1",
+			"</a>",
+			"href=\"#",
+			"<a href=\"#",
+			"fade",
+			"8",
+			"href=\"#\"",
+			"*/\n",
+			"15",
+			"9",
+			"1",
+			"11",
+			"40deg",
+			"translate(200px, 100px) scale(.75, .75) ",
+			"<img",
+			"col-xs-6",
+			"FFFFFF",
+			"15px 10px",
+			"25",
+			" 0 0 ",
+			"INPUT",
+			"fast",
 			"menu",
-			"add-without-image"
+			"ul.subnavegador",
+			"button",
+			"navbar",
+			"navi",
+			"navigation",
+			";\n",
+			"irección",
+			"span",
+			"3",
+			"<p>",
+			"text-center",
+			"upload",
+			"jpg",
+			"icon",
+			"<span",
+			"8",
+			"            .",
+			"icon",
+			"img",
+			"OpenSans",
+			"col-xs-4",
+			"<h5>",
+			"padding",
+			"    \n",
+			"<a",
+			"button",
+			"tipo_pro",
+			"container-fixed",
+			"grid",
+			"2px",
+			"border",
+			"0",
+			"OpenSans",
+			"open",
+			"Open",
+			"qcompro",
+			"-5",
+			"5",
+			"oso",
+			"gorrila",
+			"ENGINEwith",
+			"8000",
+			"-3",
+			"parallaxlevel: -1;",
+			"lobo",
+			"h1",
+			"layerslider",
+			" >",
+			"slider",
+			"slider-",
+			"center",
+			"jpg",
+			"img",
+			"layerslider/",
+			"laye",
+			"Laye",
+			"laye",
+			"type=\"text/javascript\"",
+			"#",
+			"//",
+			"newversion",
+			" ",
+			"a",
+			"e8e8e8",
+			"placeholder",
+			"img-responsive",
+			"col-lg-2",
+			"<li"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -329,6 +587,190 @@
 	},
 	"groups":
 	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "7tual/modules/noise/views/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5082.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "7tual/libraries/Slug.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								364
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
 		{
 			"sheets":
 			[
@@ -352,11 +794,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.592999828532,
 			1.0
 		],
 		"rows":
@@ -374,17 +823,135 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "project.endolab.sublime-project",
 	"replace":
 	{
-		"height": 38.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"index",
+				"index-2.html"
+			],
+			[
+				"qo",
+				"assets/js/qorilazo.js"
+			],
+			[
+				"style",
+				"scripts/superscrollorama-master/css/style.css"
+			],
+			[
+				"styl",
+				"scripts/superscrollorama-master/css/style.css"
+			],
+			[
+				"fon",
+				"qcompro/assets/less/fontastic.less"
+			],
+			[
+				"sub",
+				"qcompro/sub-categoria.html"
+			],
+			[
+				"flex",
+				"qcompro/assets/js/jquery.flexisel.js"
+			],
+			[
+				"efec",
+				"qcompro/assets/less/efectos.less"
+			],
+			[
+				"bootstrap",
+				"qcompro/assets/less/bootstrap-select.less"
+			],
+			[
+				"boots",
+				"qcompro/assets/js/bootstrap-select.js"
+			],
+			[
+				"boo",
+				"qcompro/assets/js/bootstrap-slider.js"
+			],
+			[
+				"boot",
+				"qcompro/scripts/slider/js/bootstrap-slider.js"
+			],
+			[
+				"scroll",
+				"qcompro/assets/js/jquery.scrollbox.js"
+			],
+			[
+				"vari",
+				"qcompro/assets/less/variables.less"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"form",
+				"assets/less/forms.less"
+			],
+			[
+				"fomr",
+				"assets/less/mixins/forms.less"
+			],
+			[
+				"dro",
+				"assets/less/dropdowns.less"
+			],
+			[
+				"qcompro",
+				"assets/js/qcompro.js"
+			],
+			[
+				"ca",
+				"assets/less/carousel.less"
+			],
+			[
+				"varia",
+				"assets/less/variables.less"
+			],
+			[
+				"car",
+				"assets/less/carousel.less"
+			],
+			[
+				"mediinde",
+				"application\\modules\\medico\\views\\index.php"
+			],
+			[
+				"confi",
+				"application\\config\\config.php"
+			],
+			[
+				"med",
+				"application\\modules\\medico\\models\\medico_model.php"
+			],
+			[
+				"medi",
+				"application\\modules\\medico\\controllers\\medico.php"
+			],
+			[
+				"medico/inde",
+				"application\\modules\\medico\\views\\index.php"
+			],
+			[
+				"mode",
+				"application\\modules\\medico\\models\\medico_model.php"
+			],
+			[
+				"fun",
+				"public\\js\\functions.js"
+			],
 			[
 				"cupon",
 				"application\\controllers\\cupon_life.php"
@@ -399,6 +966,7 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -407,68 +975,21 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
-		"xdebug":
-		{
-			"hide_conflict": false,
-			"restore_index":
-			{
-				"19":
-				{
-					"group": 0,
-					"index": 0
-				},
-				"20":
-				{
-					"group": 0,
-					"index": 1
-				},
-				"24":
-				{
-					"group": 0,
-					"index": 2
-				},
-				"28":
-				{
-					"group": 0,
-					"index": 3
-				}
-			},
-			"restore_layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			}
-		}
 	},
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 312.0,
+	"side_bar_width": 222.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

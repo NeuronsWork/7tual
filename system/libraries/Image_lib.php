@@ -35,7 +35,7 @@ class CI_Image_lib {
 	var $height				= '';
 	var $quality			= '90';
 	var $create_thumb		= FALSE;
-	var $thumb_marker		= '_thumb';
+	var $thumb_marker		= '';
 	var $maintain_ratio		= TRUE;		// Whether to maintain aspect ratio when resizing or use hard values
 	var $master_dim			= 'auto';	// auto, height, or width.  Determines what to use as the master dimension
 	var $rotation_angle		= '';
@@ -146,7 +146,7 @@ class CI_Image_lib {
 		if ($this->source_image == '')
 		{
 			$this->set_error('imglib_source_image_required');
-			return FALSE;	
+			return FALSE;
 		}
 
 		/*
@@ -189,7 +189,7 @@ class CI_Image_lib {
 		// Set the Image Properties
 		if ( ! $this->get_image_properties($this->source_folder.$this->source_image))
 		{
-			return FALSE;	
+			return FALSE;
 		}
 
 		/*
@@ -399,7 +399,7 @@ class CI_Image_lib {
 		if ($this->rotation_angle == '' OR ! in_array($this->rotation_angle, $degs))
 		{
 			$this->set_error('imglib_rotation_angle_required');
-			return FALSE;	
+			return FALSE;
 		}
 
 		// Reassign the width and height

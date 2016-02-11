@@ -1,0 +1,802 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"m",
+				"metodo_pago.svg"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"pr",
+				"prod-id-03.jpg	w:571 h:309"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"w",
+				"w3_megamenu.less"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"go",
+				"gorrila-1.png	w:495 h:531"
+			],
+			[
+				"gal",
+				"galleryImage"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"bootstr",
+				"bootstrap-select.less"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"se",
+				"select	Tag"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"repeat",
+				"no-repeat"
+			],
+			[
+				"pro",
+				"prod-1-img-238.jpg	w:238 h:256"
+			],
+			[
+				"boot",
+				"bootstrap-slider.js"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"cha",
+				"changePoint"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"img",
+				"img-slider-thumbnail-1"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"ff",
+				"FFFFFF"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"prefil",
+				"perfilusuario_model"
+			],
+			[
+				"empr",
+				"EmpresaId"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"td-",
+				"td-sbig-title"
+			],
+			[
+				"cod",
+				"cod_cmp"
+			],
+			[
+				"url",
+				"url_edit"
+			],
+			[
+				"a",
+				"ajax  (function)"
+			],
+			[
+				"input",
+				"inputCMP"
+			],
+			[
+				"id",
+				"id_medic"
+			],
+			[
+				"brasil",
+				"brasil-2014"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"delete",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 720.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Library/WebServer/Documents/7tualsys/assets/less/7tual.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/config/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/modules/layouts/views/web_menu.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/modules/layouts/views/head_web.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/modules/menumodelo/models/menumodelo_model.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/modules/menumodelo/controllers/menumodelo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/libraries/menu.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/modules/medico/views/form_medic_edit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/.idea/misc.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/assets/less/variables.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/modules/web/controllers/web.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/modules/web/models/web_model.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/7tualsys/application/modules/layouts/views/foot_web.php",
+		"/I/plusamazing.com/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/glyphicons.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/fontastic.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/variables.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/img/metodo_pago.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/component-animations.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/js/jquery.flexisel.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/w3_megamenu.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/index-2.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/qorilazo.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/grid.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/mixins/grid.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/mixins/grid-framework.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/normalize.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/pager.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/theme.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/utilities.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/bootstrap.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/less/mixins.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/qorilazo/assets/js/qcompro.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/qoralizo/assets/js/qcompro.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/qoralizo/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/qoralizo/assets/less/bootstrap.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/css/layerslider.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/skins/defaultskin/skin.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/js/layerslider.transitions.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/js/layerslider.kreaturamedia.jquery.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/js/jquery.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/css/layerslider.less.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/neuronswork/assets/layerslider/css/layerslider.css"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cover-img",
+			"padding-right-left",
+			"color-menu",
+			"border-radius-all",
+			"not-box",
+			"not",
+			"1px 1px 0px 0px rgba(@r0,@g0,@b0,1), inset 5px 5px 10px 0px rgba(@r1,@g1,@b1,1)",
+			">\n",
+			"redes-sociales",
+			"redes",
+			"border-top",
+			"arsort",
+			"gan",
+			"tipo_prod",
+			"6",
+			"4",
+			"3",
+			"4",
+			"8",
+			"icon",
+			"}\n",
+			"fonts",
+			"icomoon",
+			"4",
+			"8",
+			"Cómo",
+			"7",
+			"_p\"",
+			"_p",
+			"load",
+			"loading",
+			"button",
+			"7",
+			"5",
+			"span",
+			"<img",
+			"<li ",
+			"<li",
+			"src=\"\"",
+			"images",
+			"right",
+			"3",
+			"<div class=\"col-lg-13 col-md-13 col-sm-13 col-xs-13\">\n                                    <figure>\n                                        <img src=\"upload/img-5.jpg\" class=\"img-responsive\">\n                                    </figure>\n                                </div>",
+			"3",
+			"13",
+			"1",
+			"</a>",
+			"href=\"#",
+			"<a href=\"#",
+			"fade",
+			"8",
+			"href=\"#\"",
+			"*/\n",
+			"15",
+			"9",
+			"1",
+			"11",
+			"40deg",
+			"translate(200px, 100px) scale(.75, .75) ",
+			"<img",
+			"col-xs-6",
+			"FFFFFF",
+			"15px 10px",
+			"25",
+			" 0 0 ",
+			"INPUT",
+			"fast",
+			"menu",
+			"ul.subnavegador",
+			"button",
+			"navbar",
+			"navi",
+			"navigation",
+			";\n",
+			"irección",
+			"span",
+			"3",
+			"<p>",
+			"text-center",
+			"upload",
+			"jpg",
+			"icon",
+			"<span",
+			"8",
+			"            .",
+			"icon",
+			"img",
+			"OpenSans",
+			"col-xs-4",
+			"<h5>",
+			"padding",
+			"    \n",
+			"<a",
+			"button",
+			"tipo_pro",
+			"container-fixed",
+			"grid",
+			"2px",
+			"border",
+			"0",
+			"OpenSans",
+			"open",
+			"Open",
+			"qcompro",
+			"-5",
+			"5",
+			"oso",
+			"gorrila",
+			"ENGINEwith",
+			"8000",
+			"-3",
+			"parallaxlevel: -1;",
+			"lobo",
+			"h1",
+			"layerslider",
+			" >",
+			"slider",
+			"slider-",
+			"center",
+			"jpg",
+			"img",
+			"layerslider/",
+			"laye",
+			"Laye",
+			"laye",
+			"type=\"text/javascript\"",
+			"#",
+			"//"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "7tual.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"menu",
+				"application/modules/layouts/views/web_menu.php"
+			],
+			[
+				"index",
+				"index-2.html"
+			],
+			[
+				"qo",
+				"assets/js/qorilazo.js"
+			],
+			[
+				"style",
+				"scripts/superscrollorama-master/css/style.css"
+			],
+			[
+				"styl",
+				"scripts/superscrollorama-master/css/style.css"
+			],
+			[
+				"fon",
+				"qcompro/assets/less/fontastic.less"
+			],
+			[
+				"sub",
+				"qcompro/sub-categoria.html"
+			],
+			[
+				"flex",
+				"qcompro/assets/js/jquery.flexisel.js"
+			],
+			[
+				"efec",
+				"qcompro/assets/less/efectos.less"
+			],
+			[
+				"bootstrap",
+				"qcompro/assets/less/bootstrap-select.less"
+			],
+			[
+				"boots",
+				"qcompro/assets/js/bootstrap-select.js"
+			],
+			[
+				"boo",
+				"qcompro/assets/js/bootstrap-slider.js"
+			],
+			[
+				"boot",
+				"qcompro/scripts/slider/js/bootstrap-slider.js"
+			],
+			[
+				"scroll",
+				"qcompro/assets/js/jquery.scrollbox.js"
+			],
+			[
+				"vari",
+				"qcompro/assets/less/variables.less"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"form",
+				"assets/less/forms.less"
+			],
+			[
+				"fomr",
+				"assets/less/mixins/forms.less"
+			],
+			[
+				"dro",
+				"assets/less/dropdowns.less"
+			],
+			[
+				"qcompro",
+				"assets/js/qcompro.js"
+			],
+			[
+				"ca",
+				"assets/less/carousel.less"
+			],
+			[
+				"varia",
+				"assets/less/variables.less"
+			],
+			[
+				"car",
+				"assets/less/carousel.less"
+			],
+			[
+				"mediinde",
+				"application\\modules\\medico\\views\\index.php"
+			],
+			[
+				"confi",
+				"application\\config\\config.php"
+			],
+			[
+				"med",
+				"application\\modules\\medico\\models\\medico_model.php"
+			],
+			[
+				"medi",
+				"application\\modules\\medico\\controllers\\medico.php"
+			],
+			[
+				"medico/inde",
+				"application\\modules\\medico\\views\\index.php"
+			],
+			[
+				"mode",
+				"application\\modules\\medico\\models\\medico_model.php"
+			],
+			[
+				"fun",
+				"public\\js\\functions.js"
+			],
+			[
+				"cupon",
+				"application\\controllers\\cupon_life.php"
+			],
+			[
+				"func",
+				"assets\\js\\functions.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

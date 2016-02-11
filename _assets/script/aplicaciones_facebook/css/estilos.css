@@ -1,0 +1,119 @@
+body{
+    background: #f5f5f5;
+}
+#caja_login{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 3px solid #fefefe;
+    border-radius: 6px 2px;
+    background: #5dc4f6;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#5dc4f6), to(#3b5998));
+    background: -webkit-linear-gradient(#5dc4f6, #3b5998);
+    background: -moz-linear-gradient(#5dc4f6, #3b5998);
+    background: -ms-linear-gradient(#5dc4f6, #3b5998);
+    background: -o-linear-gradient(#5dc4f6, #3b5998);
+    background: linear-gradient(#5dc4f6, #3b5998);
+    -pie-background: linear-gradient(#5dc4f6, #3b5998);
+    behavior: url(../PIE.php);
+}
+#caja_login label{
+    display: block;
+}
+#login{
+    padding: 24px 90px;
+}
+#login input[type=submit]{
+    border-radius: 4px 2px;
+    color: #272727;
+    background: #f5f5f5;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#f5f5f5), to(#c3c3c3));
+    background: -webkit-linear-gradient(#f5f5f5, #c3c3c3);
+    background: -moz-linear-gradient(#f5f5f5, #c3c3c3);
+    background: -ms-linear-gradient(#f5f5f5, #c3c3c3);
+    background: -o-linear-gradient(#f5f5f5, #c3c3c3);
+    background: linear-gradient(#f5f5f5, #c3c3c3);
+    -pie-background: linear-gradient(#f5f5f5, #c3c3c3);
+    behavior: url(../PIE.php);
+}
+#login input[type=email],input[type=password]{
+    width: 250px;
+    border-radius: 4px 2px;
+    font-size: 12px;
+    padding: 4px 3px;
+}
+#welcome{
+    float: right;
+    margin-right: 10px;
+}
+#log_out{
+    color: #122;
+    margin-left: 10px;
+    float: left;
+}
+#cabecera{
+    text-align: center;
+    background: #3b5998;
+    padding: 30px 0px;
+    color: #fff;
+}
+.messages{
+    background: #f7f7f7;
+    color: #8e808e;
+    font-size: 10px;
+    padding: 10px;
+    border: 2px solid #3b5998;
+}
+.comments{
+    background: #f7f7f7;
+    color: #3b5998;
+    font-size: 10px;
+    padding: 10px;
+}
+#lastmessage{
+    background: #f7f7f7;
+    color: #8e808e;
+    font-size: 10px;
+    padding: 10px;
+    border: 2px solid #3b5998;
+    width: 380px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+#footer{
+    text-align: center;
+    background: #3b5998;
+    padding: 30px 0px;
+    color: #fff;
+    margin-top: 30px;
+}
+#form_messages{
+    margin: 10px 0px 10px 0px;
+    font-size: 11px;
+    padding: 12px;
+    background: #edeff4;
+    border: #3b5998;
+    margin-left: 10px;
+    color: #3b5998;
+}
+#form_messages textarea{
+    resize: none;
+    border: 2px;
+}
+#form_messages input[type=submit]{
+    border-radius : 5px;
+    color : #330033;
+    background: #5dc4f6;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#5dc4f6), to(#3b5998));
+    background: -webkit-linear-gradient(#5dc4f6, #3b5998);
+    background: -moz-linear-gradient(#5dc4f6, #3b5998);
+    background: -ms-linear-gradient(#5dc4f6, #3b5998);
+    background: -o-linear-gradient(#5dc4f6, #3b5998);
+    background: linear-gradient(#5dc4f6, #3b5998);
+    -pie-background: linear-gradient(#5dc4f6, #3b5998);
+    behavior: url(../PIE.php);
+}
+img{
+    margin-left: 376px;
+    margin-top: 20px;
+}

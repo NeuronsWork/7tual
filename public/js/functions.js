@@ -1,27 +1,22 @@
 jQuery(document).ready(function(){
 
-    var base_url = "http://localhost/endolab/";
+    var base_url = "http://localhost/7tualsys/";
 
 /**
-*
-* Reset Formulario
-*
-*/
+ * Reset Formulario
+ */
 
     jQuery.fn.reset = function () {
         $(this).each (function() { this.reset(); });
     }
 
 /**
- *
     ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
-    Functions jQuery Modules::Login
+    Functions jQuery Modules::Manager
     ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
- *
- **/
+ */
 
-    jQuery("#login-form").submit(function(event)
-    {
+    jQuery("#login-form").submit(function(event){
         event.preventDefault();
         var $form = $(this),
             msg = "",
@@ -48,20 +43,11 @@ jQuery(document).ready(function(){
                     $(location).attr('href',base_url+'dashboard');
                 }else{
                     $($form).find('.btn-block').text('Iniciar sesion');
-                    var unique_id = $.gritter.add({
-                        title: 'Inicio de sesion fallida',
-                        text: msg,
-                        image: base_url+'public/img/avatar-mini.jpg',
-                        sticky: true,
-                        time: '',
-                        class_name: 'my-sticky-class'
-                    });
                 }
             }
         });
 
     });
-
 
 /**
  *
@@ -149,6 +135,7 @@ jQuery(document).ready(function(){
                     $($form).find('.btn-send').text('Datos Guardados...');
                     $('#form_create_medic').reset();
                     $('.modal').delay(1500).modal('hide');
+                    $($form).find('.btn-send').text('Nuevo médico');
                     $(location).attr('href',url);
                 }
             }
@@ -218,6 +205,7 @@ jQuery(document).ready(function(){
                     $($form).find('.btn-send').text('Datos Guardados...');
                     $('#form_create_user').reset();
                     $('.modal').delay(1500).modal('hide');
+                    $($form).find('.btn-send').text('Nuevo Usuario');
                     $(location).attr('href',url);
                 }
             }
@@ -248,5 +236,143 @@ jQuery(document).ready(function(){
 
     });
 
+/**
+ *
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+    Functions jQuery Modules::metodos
+    ▄ █ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+ *
+ **/
+
+    /**
+     * @function    ::: Guardar nuevo metodo
+     * @event       ::: Clic
+     */
+
+    jQuery('.modal').on('submit','form#form_create_metodo[data-async]', function(event) {
+        var $form = $(this);
+        var url_create = $("#create_metodo").val();
+        var url = $("#url").val();
+
+        var descripcion = $('form#form_create_metodo').find("#inputDescripcion").val();
+
+        $.ajax({
+            type: $form.attr('method'),
+            url: url_create,
+            data: $form.serialize(),
+            beforeSend:function(){
+                $($form).find('.btn-send').text('Enviando datos...');
+            },
+            success: function(data){
+                if(data != "" || data >= 1){
+                    $($form).find('.btn-send').text('Datos Guardados...');
+                    $('#form_create_metodo').reset();
+                    $('.modal').delay(1500).modal('hide');
+                    $($form).find('.btn-send').text('Nuevo metodo');
+                    $('#form_metodos').find('select').append('<option value="'+data+'">'+descripcion+'</option>');
+                }
+            }
+        });
+
+        event.preventDefault();
+    });
+
+    /**
+     * @function    ::: Cargar analisis
+     * @evento      ::: change select
+     */
+
+    jQuery("#inputMetodos").change(function(){
+        var idMetodo = "";
+        $('select#inputMetodos option:selected').each(function() {
+            idMetodo = $(this).val();
+            if(idMetodo > 0){
+                $.ajax({
+                    type: "POST",
+                    url: $('#consult_metodo').val(),
+                    data: 'inputMetodos='+ idMetodo,
+                    beforeSend:function(){
+                        $('#list_analisis_x_metodo').append('Cargando analisis del metodo...')
+                    },
+                    success:function(data){
+                        $('#list_analisis_x_metodo').html('');
+                        $('#list_analisis_x_metodo').append(data);
+                    }
+                });
+            }else{
+                $('#list_analisis_x_metodo').html('');
+            }
+
+        });
+    });
+
+
+    /**
+     * @eventos     ::: alerts o notificaciones
+     */
+    $('.alert-autocloseable-success').hide();
+    $('.alert-autocloseable-warning').hide();
+    $('.alert-autocloseable-danger').hide();
+    $('.alert-autocloseable-info').hide();
+
+    $('#autoclosable-btn-success').click(function() {
+        $('#autoclosable-btn-success').prop("disabled", true);
+        $('.alert-autocloseable-success').show();
+
+        $('.alert-autocloseable-success').delay(5000).fadeOut( "slow", function() {
+            // Animation complete.
+            $('#autoclosable-btn-success').prop("disabled", false);
+        });
+    });
+
+    $('#normal-btn-success').click(function() {
+        $('.alert-normal-success').show();
+    });
+
+    $('#autoclosable-btn-warning').click(function() {
+        $('#autoclosable-btn-warning').prop("disabled", true);
+        $('.alert-autocloseable-warning').show();
+
+        $('.alert-autocloseable-warning').delay(3000).fadeOut( "slow", function() {
+            // Animation complete.
+            $('#autoclosable-btn-warning').prop("disabled", false);
+        });
+    });
+
+    $('#normal-btn-warning').click(function() {
+        $('.alert-normal-warning').show();
+    });
+
+    $('#autoclosable-btn-danger').click(function() {
+        $('#autoclosable-btn-danger').prop("disabled", true);
+        $('.alert-autocloseable-danger').show();
+
+        $('.alert-autocloseable-danger').delay(5000).fadeOut( "slow", function() {
+            // Animation complete.
+            $('#autoclosable-btn-danger').prop("disabled", false);
+        });
+    });
+
+    $('#normal-btn-danger').click(function() {
+        $('.alert-normal-danger').show();
+    });
+
+    $('#autoclosable-btn-info').click(function() {
+        $('#autoclosable-btn-info').prop("disabled", true);
+        $('.alert-autocloseable-info').show();
+
+        $('.alert-autocloseable-info').delay(6000).fadeOut( "slow", function() {
+            // Animation complete.
+            $('#autoclosable-btn-info').prop("disabled", false);
+        });
+    });
+
+    $('#normal-btn-info').click(function() {
+        $('.alert-normal-info').show();
+    });
+
+    $(document).on('click', '.close', function () {
+        $(this).parent().hide();
+    });
 
 });

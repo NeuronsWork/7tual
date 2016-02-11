@@ -1,0 +1,139 @@
+.galleriffic
+  .content
+    :display none
+    :float right
+    :width 550px
+    a
+      :color #777777
+      :text-decoration none
+    a:focus
+      :text-decoration:underline
+    a:hover
+      :text-decoration:underline
+    a:active
+      :text-decoration:underline
+  .navigation
+    a
+      :color #777777
+      :text-decoration none
+    a:focus
+      :text-decoration:underline
+    a:hover
+      :text-decoration:underline
+    a:active
+      :text-decoration:underline
+  .controls
+    :height 23px
+    :margin-top 5px
+    a
+      :padding 5px
+  .ss-controls
+    :float left
+  .nav-controls
+    :float right
+  .loader
+    :background-image url(../images/loader.gif)
+    :background-position center center
+    :background-repeat no-repeat
+    :height 350px
+    :width 550px
+  .slideshow
+    :clear both
+    .image-wrapper
+      :float left
+      :padding-bottom 12px
+    a.advance-link
+      :border 1px solid #CCCCCC
+      :display block
+      :padding 2px
+    img
+      :border medium none
+      :display block
+  .download
+    :float right
+  .embox
+    :background-color #EEEEEE
+    :border 1px solid #CCCCCC
+    :clear both
+    :padding 12px
+  .image-title
+    :font-size 1.4em
+    :font-weight bold
+  .image-desc
+    :line-height 1.3em
+    :padding-top 12px
+  .navigation
+    ul.thumbs
+      :clear both
+      :margin 0
+      :padding 0
+      li
+        :float left
+        :list-style-image none
+        :list-style-position outside
+        :list-style-type none
+        :margin 5px 10px 5px 0
+        :padding 0
+        a.thumb
+          :border 1px solid #CCCCCC
+          :display block
+          :padding 2px
+      li.selected
+        a.thumb
+          :-moz-background-clip border
+          :-moz-background-inline-policy continuous
+          :-moz-background-origin padding
+          :background #000000 none repeat scroll 0 0
+        a.thumb:focus
+          :outline-color -moz-use-text-color
+          :outline-style none
+          :outline-width medium
+      img
+        :border medium none
+        :display block
+    .top
+      :height 11px
+      :margin-bottom 12px
+    .bottom
+      :margin-top 12px
+  .pagination
+    :clear both
+    a
+      :border 1px solid #CCCCCC
+      :display block
+      :float left
+      :margin-right 2px
+      :padding 4px 7px 2px
+    a:hover
+      :background-color #EEEEEE
+      :text-decoration none
+    .current
+      :border 1px solid #CCCCCC
+      :display block
+      :float left
+      :margin-right 2px
+      :padding 4px 7px 2px
+      :background-color #000000
+      :border-color #000000
+      :color #FFFFFF
+      :font-weight bold
+  #thumbs-min
+    ul.thumbs
+      li
+        :float none
+        :list-style-image none
+        :list-style-position outside
+        :list-style-type none
+        :margin 0
+        :padding 0
+      li.selected
+        a.thumb
+          :-moz-background-clip inherit
+          :-moz-background-inline-policy inherit
+          :-moz-background-origin inherit
+          :color #000000
+          :font-weight bold
+    a.thumb
+      :border medium none
+      :display inline
+      :padding 0

@@ -1,5 +1,24 @@
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /endolab/index.php/$1 [L]
-ErrorDocument 404 /endolab/index.php
+#RewriteEngine on
+#AddDefaultCharset UTF-8
+#RewriteCond $1 !^(index\.php|assets|public|upload|robots\.txt)
+#RewriteRule ^(.*)$ /7tualsys/index.php/$1 [L]
+
+<IfModule mod_rewrite.c>
+    Options +FollowSymLinks -Indexes
+    DirectoryIndex index.php
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    AddDefaultCharset UTF-8
+    RewriteCond $1 !^(index\.php|library|assets|public|upload|robots\.txt)
+    RewriteRule ^(.*)$ /7tualsys/index.php/$1 [L]
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+    # If we don't have mod_rewrite installed, all 404's
+    # can be sent to index.php, and everything works as normal.
+    # Submitted by: ElliotHaughin
+
+    ErrorDocument 404 /index.php
+</IfModule>
